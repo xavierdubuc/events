@@ -1,0 +1,1 @@
+from xd_events.exceptions.event_process_failed import EventProcessFailedException
